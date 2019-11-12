@@ -1,0 +1,24 @@
+html, body, .my-wrapper {
+    height: 120%;    
+}
+
+.line {
+    width: 200px;
+    height: 10px;
+    border-bottom: 1px solid black;   
+    margin: auto;
+}
+
+.text-style {
+    font-family: cursive;
+}
+.social-icon-style{
+    font-family: cursive;    
+    font-size: 20px;
+    font-variant-caps: all-petite-caps;
+    color: rgb(21, 86, 97);;
+    font-weight: bold;
+}
+.card-style{
+    background: rgb(21, 86, 97);;
+}

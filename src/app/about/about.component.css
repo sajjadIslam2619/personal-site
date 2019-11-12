@@ -1,0 +1,9 @@
+.line {
+    width: 200px;
+    height: 10px;
+    border-bottom: 1px solid black;   
+    margin: auto;
+}
+.text-style {
+    font-family: cursive;
+}
