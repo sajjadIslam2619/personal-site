@@ -1,5 +1,6 @@
 html, body, .my-wrapper {
-    height: 120%;    
+    height: 120%;   
+    padding-bottom: 100px; 
 }
 
 .line {
@@ -18,6 +19,7 @@ html, body, .my-wrapper {
     font-variant-caps: all-petite-caps;
     color: rgb(21, 86, 97);;
     font-weight: bold;
+    float: left; 
 }
 .card-style{
     background: rgb(21, 86, 97);;
