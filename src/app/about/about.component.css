@@ -5,7 +5,7 @@
     margin: auto;
 }
 .text-style {
-    font-family: cursive;
+    font-family: normal;
 }
 .zoom {
     transition: transform .3s
