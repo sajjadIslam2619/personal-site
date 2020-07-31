@@ -11,10 +11,10 @@ html, body, .my-wrapper {
 }
 
 .text-style {
-    font-family: normal;
+    font-family: 'Roboto';
 }
 .social-icon-style{
-    font-family: cursive;    
+    font-family: 'Roboto';    
     font-size: 20px;
     font-variant-caps: all-petite-caps;
     color: rgb(21, 86, 97);;

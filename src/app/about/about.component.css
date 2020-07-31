@@ -5,7 +5,7 @@
     margin: auto;
 }
 .text-style {
-    font-family: normal;
+    font-family: 'Roboto';
 }
 .zoom {
     transition: transform .3s
